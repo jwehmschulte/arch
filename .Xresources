@@ -1,0 +1,6 @@
+URxvt.font:xft:monaco:size=10
+URxvt.scrollBar:false
+URxvt.background:#000000
+URxvt.foreground:#FFFFFF
+URxvt.transparent:true
+URxvt.shading:30
